@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 20px;
+}
+video {
+  object-fit: contain;
+}
+h2 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+}
+.p2 {
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+.footer {
+  text-align: right;
+  color: grey;
+}
+p {
+  font-size: 21px;
+}
+
